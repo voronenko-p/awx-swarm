@@ -1,0 +1,12 @@
+[awx_box]
+192.168.57.101
+
+[docker_box]
+192.168.57.102
+192.168.57.103
+
+[awx_box:vars]
+ansible_user=vagrant
+
+[docker_box:vars]
+ansible_user=vagrant

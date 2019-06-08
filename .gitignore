@@ -1,0 +1,4 @@
+.vagrant/
+*.log
+deployment/provisioners/awx-box
+deployment/provisioners/docker-box
